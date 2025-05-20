@@ -1,1 +1,1 @@
-# git-conflict-challenge Modif
+# git-conflict-challenge Modif avec conflits

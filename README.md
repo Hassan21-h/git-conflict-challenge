@@ -1,1 +1,1 @@
-# git-conflict-challenge Modification 3ème essai
+# git-conflict-challenge Modif avec conflits
